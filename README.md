@@ -17,31 +17,31 @@ LensLegacy is an online marketplace crafted for photographers and visual artists
 <h2>Program Walk-through:</h2>
 
 <p align="center">
-User Registration: <br/>
+<b>User Registration: </b> <br/>
 <img src="https://i.postimg.cc/Bncb6CPm/Picture1.png" height="80%" width="80%" alt="User Registration"/>
 <br /><br />
 <p align="center">
-Login Page: <br/>
+<b>Login Page: </b> <br/>
 <img src="https://i.postimg.cc/2Sc3p7qM/Picture2.png" height="80%" width="80%" alt="Login Page"/>
 <br /><br />
 <p align="center">
-Home Page: <br/>
+<b>Home Page: </b><br/>
 <img src="https://i.postimg.cc/J0pCyPWW/Picture3.png" height="80%" width="80%" alt="Home Page"/>
 <br /><br />
 <p align="center">
-Browsing Photo Categories (e.g., Nature, Travel): <br/>
+<b>Browsing Photo Categories (e.g., Nature, Travel): </b><br/>
 <img src="https://i.postimg.cc/s23FJkDR/Picture5.png" height="80%" width="80%" alt="Browse Photos"/>
 <br /><br />
 <p align="center">
-View Photo Details and Licensing Info: <br/>
+<b>View Photo Details and Licensing Info: </b><br/>
 <img src="https://i.postimg.cc/VLHBgnfs/Picture6.png" height="80%" width="80%" alt="Photo Details"/>
 <br /><br />
 <p align="center">
-Secure Checkout and Payment Processing: <br/>
+<b>Secure Checkout and Payment Processing: </b><br/>
 <img src="https://i.postimg.cc/mgfhTgVN/Picture7.png" height="80%" width="80%" alt="Payment"/>
 <br /><br />
 <p align="center">
-Manage Purchased Photos: <br/>
+<b>Manage Purchased Photos: </b><br/>
 <img src="https://i.postimg.cc/FKf9ctPs/Picture8.png" height="80%" width="80%" alt="Purchased Photos"/>
 <br />
 </p>
